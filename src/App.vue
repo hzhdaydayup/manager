@@ -12,7 +12,7 @@ export default {
     HelloWorld
   },
   created() {
-    console.log('sdfsdfdsf')
+    console.log('name')
   }
 }
 </script>
