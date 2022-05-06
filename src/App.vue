@@ -12,7 +12,7 @@ export default {
     HelloWorld
   },
   created() {
-    console.log('999999999')
+    console.log('66666')
   }
 }
 </script>
